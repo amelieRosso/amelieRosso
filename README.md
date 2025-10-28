@@ -17,9 +17,9 @@
 
 ### Digital Tech & Innovation's Team Website (<a href="https://cornelldti.org/">Website</a>, <a href="https://github.com/cornell-dti/idol/tree/main/new-dti-website-redesign">GitHub</a>)
 
-  - Digital Tech & Innovation's external website showcasing products, team, courses, and recruitment timeline<br>
+  - Digital Tech & Innovation's external website showcasing the products, team, courses, and recruitment timeline<br>
   - Product Manager of the project, working to create a high-performance, accessible website<br>
-  - Creating the sponsor page graphic using React and Tailwind.<br>
+  - Created the sponsor page graphic using React and Tailwind.<br>
 
-<img width="394.67" height="524" alt="image" src="https://github.com/user-attachments/assets/632fb5f3-1fd8-4592-a493-80b8fd2ff863" />
+<img width="394.67" height="524" alt="image" hspace="10" src="https://github.com/user-attachments/assets/632fb5f3-1fd8-4592-a493-80b8fd2ff863" />
 <img width="214.35" height="524" alt="Screenshot_20251024-153545" src="https://github.com/user-attachments/assets/a3cf2de0-3bb0-438c-97b5-eb8b03596b02" />
